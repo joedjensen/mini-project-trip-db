@@ -1,0 +1,27 @@
+{
+  "name": "mini-project-trip-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedjensen/mini-project-trip-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedjensen/mini-project-trip-db/issues"
+  },
+  "homepage": "https://github.com/joedjensen/mini-project-trip-db#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1",
+    "mysql2": "^2.2.1",
+    "sequelize": "^6.3.5"
+  }
+}
